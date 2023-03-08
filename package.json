@@ -1,8 +1,8 @@
 {
-  "name": "@uiw/react-markdown-preview",
+  "name": "@lhjeong60/react-markdown-preview",
   "version": "4.1.9",
-  "description": "React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style.",
-  "homepage": "https://uiwjs.github.io/react-markdown-preview",
+  "description": "modified version of @uiw/react-markdown-preview to use in server side.",
+  "homepage": "https://github.com/lhjeong60/react-markdown-preview.git",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "scripts": {
@@ -23,9 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uiwjs/react-markdown-preview.git"
+    "url": "https://github.com/lhjeong60/react-markdown-preview.git"
   },
-  "author": "kenny wang <wowohoo@qq.com>",
+  "author": "HoJeong Lee <lhjeong60@naver.com>",
   "license": "MIT",
   "files": [
     "dist",
