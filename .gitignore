@@ -1,5 +1,9 @@
+lib
+esm
 build
+dist
 coverage
+markdown.css
 npm-debug.log*
 package-lock.json
 node_modules
